@@ -1,0 +1,7 @@
+node_modules
+playwright-report
+allure-results
+example.spec.ts
+global-setup.ts
+.vscode
+test-results
